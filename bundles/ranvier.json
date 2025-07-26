@@ -1,0 +1,21 @@
+{
+  "bundles": [
+    "aeternus-ejemplo"
+  ],
+  "port": 4000,
+  "maxPlayers": 20,
+  "playerSaveInterval": 30,
+  "skillLag": 500,
+  "moveCommand": "move",
+  "startingRoom": "ejemplo:entrada",
+  "respawnRoom": "ejemplo:entrada",
+  "defaultAttributes": {
+    "health": 100,
+    "strength": 10,
+    "dexterity": 10,
+    "constitution": 10,
+    "intelligence": 10,
+    "wisdom": 10,
+    "charisma": 10
+  }
+}

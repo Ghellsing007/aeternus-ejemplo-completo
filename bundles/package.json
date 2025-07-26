@@ -1,0 +1,20 @@
+{
+  "name": "aeternus-ejemplo-completo",
+  "version": "1.0.0",
+  "description": "Ejemplo completo y limpio de Aeternus-Orbis con Ranvier",
+  "main": "ranvier",
+  "scripts": {
+    "start": "node ranvier",
+    "dev": "nodemon ranvier"
+  },
+  "dependencies": {
+    "humanize-duration": "^3.14.0",
+    "rando-js": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "keywords": ["mud", "ranvier", "aeternus-orbis", "ejemplo"],
+  "author": "Aeternus Team",
+  "license": "MIT"
+}
